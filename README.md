@@ -12,5 +12,6 @@ The user will download this repo to their local machine. Run node and start the 
 
 ![intro page](assets/screenshot2.PNG)
 
-#Deployment
+# Deployment
+
 [Note Taker](https://note-taker375.herokuapp.com/)
